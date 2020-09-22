@@ -1,6 +1,7 @@
 .contenedor-video{
     display: flex;
     justify-content: center;
+    margin-bottom: 3rem;
 }
 
 .contenedor-memoria{
