@@ -1,0 +1,23 @@
+.contenedor-video{
+    display: flex;
+    justify-content: center;
+}
+
+.contenedor-memoria{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.titulo-memoria{
+    font-size: 2rem;
+    color: rgb(63, 63, 63);
+}
+
+.titulo-memoria-izq{
+
+    font-size: 2rem;
+    text-align: end;
+    color: rgb(63, 63, 63);
+    
+}
